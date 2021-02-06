@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bitch don't kill my vibe
 Use the left arrow to go back
